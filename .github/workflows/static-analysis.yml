@@ -9,4 +9,4 @@ jobs:
 
   static-analysis:
     name: Run cppcheck
-    uses: nasa/cFS/.github/workflows/static-analysis.yml@main
+    uses: arielswalker/cFS/.github/workflows/static-analysis.yml@test-static-analysis
